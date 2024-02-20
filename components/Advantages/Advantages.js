@@ -2,7 +2,7 @@ const Advantages = () => {
 	return (
 		<section className="py-10 px-4 md:px-0 mt-10" id="preimushestva">
 			<div className="container mx-auto">
-				<h2 className="text-2xl font-semibold mb-6">Преимущества проката строительного инструмента в Минске и Минском районе</h2>
+				<h6 className="text-2xl font-semibold mb-6">Преимущества проката строительного инструмента в Минске и Минском районе</h6>
 				<ul className="list-disc pl-8 sd:text-base xz:text-sm">
 					<li className="mb-4">
 						<p className="text-lg">Экономия денежных средств</p>
