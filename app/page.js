@@ -30,16 +30,10 @@ export default function Home() {
           </p>
         </div>
       </div>
-
-
       <Catalog />
-
       <Сonditions />
-
       <Otzyvy />
-
       <PrizyvDejstviyu />
-
       <Advantages />
 
       <section className='pb-10'>
