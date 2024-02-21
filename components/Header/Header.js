@@ -173,8 +173,8 @@ export default function Header() {
 					<div className="navbar-end">
 
 
-						<a href='tel:8029' className='btn btn-primary rounded-none'>
-							8 029 000-00-00
+						<a href='tel:80295235311' className='btn btn-primary rounded-none'>
+							+375 29 523-53-11
 						</a>
 					</div>
 				</div>

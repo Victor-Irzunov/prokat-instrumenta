@@ -18,15 +18,15 @@ export default function Home() {
               Широкий выбор профессионального инструмента для строительства, ремонта и обслуживания. Мы предлагаем качественное оборудование по доступным ценам.
             </p>
 
-            <a href='tel:8029' className='btn btn-primary btn-lg text-2xl rounded-none'>
-              8 029 000-00-00
+            <a href='tel:80295235311' className='btn btn-primary btn-lg text-2xl rounded-none'>
+              8 029 523-53-11
             </a>
           </div>
         </div>
 
         <div className='absolute bottom-3 left-1/2 -translate-x-1/2'>
           <p className='uppercase text-white text-xl font-light'>
-            Минск
+            Молодечно
           </p>
         </div>
       </div>
