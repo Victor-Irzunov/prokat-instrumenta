@@ -19,7 +19,7 @@ export default function Home() {
             </p>
 
             <a href='tel:80295235311' className='btn btn-primary btn-lg text-2xl rounded-none'>
-              8 029 523-53-11
+              +375 29 523-53-11
             </a>
           </div>
         </div>

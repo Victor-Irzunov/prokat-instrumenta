@@ -16,7 +16,6 @@ export default function RootLayout({ children }) {
     <html lang="ru">
       <head>
       <link rel="shortcut icon" href="/favicon.ico" />
-       
       </head>
       <body className={inter.className}>
         <Header />
