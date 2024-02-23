@@ -149,11 +149,16 @@ export const data = [
 		img: '/catalog/tachka.webp',
 		alt: 'Прокат Тачки строительные и тележки',
 	},
-	
 	{
 		id: 26,
 		title: 'Лазерные уровени',
 		img: '/catalog/uroven.webp',
 		alt: 'Прокат Лазерные уровни',
+	},
+	{
+		id: 27,
+		title: 'Сабельные пили',
+		img: '/catalog/sabelnayaPila.webp',
+		alt: 'Прокат Сабельные пили',
 	},
 ]

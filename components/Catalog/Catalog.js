@@ -14,7 +14,7 @@ const Catalog = () => {
 				<div className='mt-9 grid grid-cols-2 gap-6 xz:grid-cols-1 sd:grid-cols-4'>
 					{data.map(item => (
 						<div key={item.id} className='bg-white p-4 rounded-lg'>
-							<img src={item.img} alt={item.alt} className='w-20 h-20 mb-4' />
+							<img src={item.img} alt={item.alt} className='w-24 h-24 mb-4' />
 							<h4 className='text-lg font-semibold'>{item.title}</h4>
 						</div>
 					))}
